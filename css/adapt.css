@@ -1,0 +1,144 @@
+@media screen and (max-width: 1199px) {
+	.toKnow {
+		margin-bottom: 15px;
+	}
+	.menu {
+		margin-top: 160px;
+	}
+}
+
+@media screen and (max-width: 991px) {
+	.girls {
+		margin-left: -25px;
+	}
+	.menu li {
+		display: inline-block;
+		text-align: center;
+	}
+	.menu {
+		margin-top: 25px;
+	}
+}
+
+@media screen and (max-width: 767px) {
+	.girls {
+		margin-left: 25px;
+		height: 508px !important;
+	}
+	#firstBtn {
+		margin-right: 0px !important;
+	}
+}
+
+@media screen and (max-width: 475px) {
+	.formBG h3 {
+		font-size: 0.8em !important;
+	}
+}
+
+@media screen and (max-width: 499px) {
+	.button-group {
+		text-align: center;
+	}
+}
+
+@media screen and (max-width: 354px) {
+	.button-group {
+		text-align: left;
+	}
+}
+
+@media screen and (max-width: 1310px) {
+	.modal-content {
+	top: auto !important;
+	left: auto !important;
+	width: auto !important;
+	}
+}
+
+@media screen and (max-width: 992px) {
+	.adv-full {
+		display: none;
+	}
+	.adv-md {
+		display: block;
+	}
+}
+
+@media screen and (max-width: 768px) {
+	#ourAdvantages h3 {
+		font-size: 1.3em;
+	}
+	.formBG h3 {
+	margin-top: 240px;
+	}
+	.formGroup input {
+		padding: 8px;
+		width: 70%;
+		margin-top: 5px;
+	}
+	.formGroup img {
+		margin-top: 5px;
+	}
+}
+
+@media screen and (max-width: 500px) {
+	#ourAdvantages h3 {
+		font-size: 1em;
+	}
+}
+
+@media screen and (max-width: 390px) {
+	.girls {
+		height: 308px !important;
+	}
+	.nbr-2 {
+		width: 85vw !important;
+		height: 100%;
+	}
+	.nbr-1 {
+		width: 50vw !important;
+		height: 100%;
+	}
+	.priceBody {
+		-webkit-transform: scale(0.8);
+		-ms-transform: scale(0.8);
+		-o-transform: scale(0.8);
+		transform: scale(0.8);
+	}
+	.formGroup input {
+		padding: 4px;
+		width: 80%;
+		margin-top: 5px;
+	}
+	.formGroup img {
+		margin-top: 5px;
+	}
+}
+
+@media screen and (max-width: 992px) {
+	.pickDress {
+		padding-bottom: 190px !important;
+	}
+	.formBG h3 {
+		font-size: 1em;
+	}
+}
+
+@media screen and (max-width: 576px) {
+	.pickDress {
+		padding-bottom: 100px !important;
+	}
+}
+
+@media screen and (min-width: 992px) {
+	.girls {
+	margin-left: -85px;
+}
+}
+
+@media screen and (max-width: 300px) {
+	.formGroup img{
+		width: 160px;
+	}
+}
